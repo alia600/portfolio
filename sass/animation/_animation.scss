@@ -1,0 +1,13 @@
+.parProjet{
+    animation-name: apparition;
+    animation-duration: 1s;
+}
+
+@keyframes apparition{
+    from{
+       width: 0%;
+    }
+    to{
+        width: 100%;
+    }
+}

@@ -1,0 +1,35 @@
+body{
+    background-color: #1d1d1d;
+    color: white;
+    font-family: Sansation;
+}
+
+ul>li:nth-child(1){
+    opacity: 1;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+a:hover{
+    color: blue;
+}
+
+#vidPre{
+    filter:opacity(70%);
+}
+
+.wrapper div{
+    background-color:black;
+    overflow: hidden;
+}
+
+footer{
+    padding: 1em;
+    background-color: #ececec;
+    color: #1d1d1d;
+}
